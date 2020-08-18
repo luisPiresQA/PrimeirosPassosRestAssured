@@ -1,6 +1,6 @@
 # TestQAPiresGit
 
-Criado para auxiliar nos testes automatizados nele é possivel encontrar algumas técnicas baseadas na linguagem Java. Rest Assured tém muitas funções que auxilião muito nos testes.
+Com este projeto procurei dar meus primeiros passos na ferramenta Rest Assured e Junit nele foram utilizado algumas técnicas que podem auxiliar quem está começando aprender a automatizar seus testes Também usei algumas técnicas de Java tais como listas a arrays e outas.
 
 ## Installation
 Java versão 8 Update 261r
@@ -17,5 +17,9 @@ Pull requests são bem vidos. Para contribuir por favor abra um problema primeir
 
 Certifique-se de atualizar os testes conforme apropriado.
 
-## License
+##Referencias:
+Udemy. Udemy.com, 2020. Aprenda a acessar e validar requisições de APIs Rest, utilizando JAVA, trabalhando com os formatos Json e XML. Disponível em: https://www.udemy.com/course/testando-api-rest-com-rest-assured/. Acesso em: 05, 08 e 2020.
+
+Rest-assured. http://rest-assured.io/, 2020. Testing and validating REST services in Java is harder than in dynamic languages such as Ruby and Groovy. REST Assured brings the simplicity of using these languages into the Java domain. Disponível em: http://rest-assured.io/ Acesso em: 05, 08 e 2020.
+
 
