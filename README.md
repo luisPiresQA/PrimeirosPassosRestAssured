@@ -1,6 +1,6 @@
 # TestQAPiresGit
 
-Criado para auxiliar nos testes automatizados nelle é possivel encontrar algumas técnicas baseadas na linguagem Java. Rest Assured tém muitas funções que auxilião muito nos testes.
+Criado para auxiliar nos testes automatizados nele é possivel encontrar algumas técnicas baseadas na linguagem Java. Rest Assured tém muitas funções que auxilião muito nos testes.
 
 ## Installation
 Java versão 8 Update 261r
