@@ -1,30 +1,21 @@
 # TestQAPiresGit
-# Foobar
 
-Foobar is a Python library for dealing with word pluralization.
+Criado para auxiliar nos testes automatizados nelle é possivel encontrar algumas técnicas baseadas na linguagem Java. Rest Assured tém muitas funções que auxilião muito nos testes.
 
 ## Installation
+Java versão 8 Update 261r
+IntelliJ IDEA Community Edition 2020.14
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
-```bash
-pip install foobar
-```
+## Dependencias
+Foram Importados via Maven as dependencias:
+junit versão 3.8.2
+rest-assured versão	4.3.0
 
-## Usage
+## Contribuições
+Pull requests são bem vidos. Para contribuir por favor abra um problema primeiro para discutir o que você gostaria de mudar.
 
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+Certifique-se de atualizar os testes conforme apropriado.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+
