@@ -1,6 +1,6 @@
 # PrimeirosPassosRestAssured
 
-Com este projeto procurei dar meus primeiros passos na ferramenta Rest Assured e Junit. Usando esses dois frameworks junto com a linguagem Java pode aprender muito sobre automação de testes.
+Com este projeto procurei dar meus primeiros passos na ferramenta Rest Assured e Junit. Usando esses dois frameworks junto com a linguagem Java é possível aprender muito sobre automação de testes.
 
 ## Intalações
 Java versão 8 Update 261r
