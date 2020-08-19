@@ -13,7 +13,7 @@ junit versão 3.8.2
 rest-assured versão	4.3.0
 
 ## Contribuições
-Pull requests são bem vidos. Para contribuir por favor abra um problema primeiro para discutir o que você gostaria de mudar.
+Pull requests são bem vindos.
 
 Certifique-se de atualizar os testes conforme apropriado.
 
