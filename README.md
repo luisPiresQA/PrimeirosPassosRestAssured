@@ -1,25 +1,35 @@
-# PrimeirosPassosRestAssured
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+  <title>Minha primeira página CSS</title>
+</head>
 
-Com este projeto procurei dar meus primeiros passos na ferramenta Rest Assured e Junit. Usando esses dois frameworks junto com a linguagem Java é possível aprender muito sobre automação de testes.
+<body>
 
-## Intalações
-Java versão 8 Update 261r
-IntelliJ IDEA Community Edition 2020.14
+<!-- Menu de navegacao do site -->
+<ul class="navbar">
+  <li><a href="index.html">Home page</a>
+  <li><a href="pensamentos.html">Pensamentos</a>
+  <li><a href="cidade.html">Minha cidade</a>
+  <li><a href="links.html">Links</a>
+</ul>
 
+<!-- Conteudo -->
+<h1>Minha primeira página CSS</h1>
 
-## Dependencias
-Foram Importados via Maven as dependencias:
-junit versão 3.8.2
-rest-assured versão	4.3.0
+<p>Bem vindos à minha página estilizada!
 
-## Contribuições
-Pull requests são bem vindos.
+<p>Minha página não contém imagens, mas pelo
+menos está estilizada.
+Ela contém links, ainda que eles não levem
+a lugar algum…
 
-Certifique-se de atualizar os testes conforme apropriado.
+<p>Deveria haver mais textos aqui porém eu
+ainda não decidi o que escrever.
 
-## Referencias
-Udemy. Udemy.com, 2020. Aprenda a acessar e validar requisições de APIs Rest, utilizando JAVA, trabalhando com os formatos Json e XML. Disponível em: https://www.udemy.com/course/testando-api-rest-com-rest-assured/. Acesso em: 05, 08 e 2020.
+<!-- Date e assine sua página, isto é educado! -->
+<address>Construida em 15 de dezembro de 2004<br>
+  por mim mesmo.</address>
 
-Rest-assured. http://rest-assured.io/, 2020. Testing and validating REST services in Java is harder than in dynamic languages such as Ruby and Groovy. REST Assured brings the simplicity of using these languages into the Java domain. Disponível em: http://rest-assured.io/ Acesso em: 05, 08 e 2020.
-
-
+</body>
+</html>
